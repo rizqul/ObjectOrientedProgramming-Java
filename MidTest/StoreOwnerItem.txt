@@ -1,0 +1,5 @@
+12.00;4;soap
+10.00;13;shampoo
+13.00;34;pizza
+112.00;5;phone
+12.33;10;detail

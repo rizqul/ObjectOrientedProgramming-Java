@@ -1,0 +1,9 @@
+RestaurantOrderApp	-----> Tugas Praktikum BAB 8 Nomor 1
+GroupDataBase 		-----> Tugas Praktikum BAB 8 Nomor 2
+TextReader 		-----> Tugas Praktikum BAB 8 Nomor 3
+
+untuk bisa menjalankan pastikan membuat Maven project terlebih dahulu
+dan jangan lupa untuk menggnati nama package dan artifact id-nya
+
+// Command untuk menjalankan aplikasi
+mvn exec:java -Dexec.mainClass={nama artifact id}.{nama package/project}.(directory ke file}.{nama file}
